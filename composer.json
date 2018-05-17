@@ -1,0 +1,19 @@
+{
+    "name": "adiputra/phpexcel",
+    "require-dev": {
+        "phpoffice/phpspreadsheet": "^1.2"
+    },
+    "authors": [
+        {
+            "name": "adiputra22",
+            "email": "tuts.adiputra@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Acme\\": "",
+            "Acme\\Helpers\\": "Helpers"
+        }
+    }
+}
